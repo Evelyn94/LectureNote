@@ -26,7 +26,6 @@ public class BasicDrawing extends JComponent implements Runnable,
     /**
      * BasicDrawing - a simple program to demo Graphics and Graphics2D 
      * Eric McCreath 2015 - GPL
-     * test
      */
 
     JFrame jframe;
